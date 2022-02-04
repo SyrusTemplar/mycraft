@@ -1,2 +1,1 @@
-Version 0.1.3 is released!
-Check your version and update from our website!
+Version 0.1.3 is released! Update from our website!
